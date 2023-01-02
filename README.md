@@ -13,7 +13,7 @@
 This repository contains *.stl files for 3D printing of two soligraphy cameras.
 
 ### ◾ More information
-More details and a tutorial (in polish) can be found on my blog: [alicja.space](https://alicja.space)
+More details and a tutorial (in polish) can be found on my blog: [alicja.space](https://alicja.space/blog/solarigrafia)
 
 ### ◾ License
 The project is available on Creative Commons Attribution Share Alike 4.0 International license (more in [license file](LICENSE.txt)). You are free to use it, modify it and produce as many of your own boards as you need.
